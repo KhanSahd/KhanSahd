@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhanSahd
 - 👀 I’m interested in further developing my programming and web development skills.
-- 🌱 I’m currently learning javascript, java, and python in the future
+- 🌱 I’m currently learning advance javascript along with React.js.
 - 📫 How to reach me: 03Sahd@gmail.com
 
 <!---
