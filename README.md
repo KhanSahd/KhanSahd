@@ -4,14 +4,11 @@ Hi 👋 My name is Sahd Khan
 Web Developer and programmer 
 ----------------------------  
 
-I'm currently a student at California State University Sacramento studying Computer Science. I've been learning and practicing programming for about 4 years now but got into front-end web development in 2021. I love to learn new skills and practicing what I learn and applying it to real world projects. 
+I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, specializing in software and hardawre for international and national airports. 
 * 🌍  I'm based in California 
-* 🖥️  See my portfolio at [My Portfolio](http://khansahd.github.io/SahdKhan-Portfolio/) 
-* ✉️  You can contact me at [03sahd@gmail.com](mailto:03sahd@gmail.com) 
-* 🚀  I'm currently working on [Prime Football League](http://khansahd.github.io/pfl-official-site/) 
-* 🧠  I'm learning React.js, Python and asynchronous programming  
+* 🖥️  See my portfolio at [My Portfolio](https://khansahd.github.io/)
+* ✉️  You can contact me at [sahd.khan@outlook.com](mailto:sahd.khan@outlook.com) 
 * 🤝  I'm open to collaborating on Interesting and creative projects 
-* ⚡  I should have been made it to the NBA but you know... my knee.
 
 ### Skills
 
