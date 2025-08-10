@@ -4,7 +4,7 @@ Hi 👋 My name is Sahd Khan
 Jr Software Engineer & Self Taught Web and Mobile App Developer
 ---------------------------------------------------------------
 
-I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, specializing in software and hardawre for international and national airports. 
+I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, specializing in software and hardware for international and national airports. 
 * 🌍  I'm based in California 
 * 🖥️  See my portfolio at [My Portfolio](https://khansahd.github.io/)
 * ✉️  You can contact me at [sahd.khan@outlook.com](mailto:sahd.khan@outlook.com) 
