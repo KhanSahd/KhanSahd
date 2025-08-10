@@ -1,8 +1,8 @@
 Hi 👋 My name is Sahd Khan 
 ==========================  
 
-Web Developer and programmer 
-----------------------------  
+Jr Software Engineer & Self Taught Web and Mobile App Developer
+---------------------------------------------------------------
 
 I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, specializing in software and hardawre for international and national airports. 
 * 🌍  I'm based in California 
@@ -12,10 +12,6 @@ I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, 
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,react,js,python,cpp,mysql,tailwind,npm,nodejs,yarn,mongodb,redux,html,css,linux,gradle,firebase)](https://skillicons.dev)
-
-### Socials  
-
-<p align="left"> <a href="https://www.github.com/KhanSahd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sxhd.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sahdkhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
