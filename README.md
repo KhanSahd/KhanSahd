@@ -11,7 +11,7 @@ I'm currently a Jr Software Engineer for a company based out in Sacramento, CA, 
 * 🤝  I'm open to collaborating on Interesting and creative projects 
 
 ### Skills
-[(https://skillicons.dev/icons?i=java,react,js,python,cpp,mysql,tailwind,npm,nodejs,yarn,mongodb,redux,html,css,linux,gradle,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,js,python,cpp,mysql,tailwind,npm,nodejs,yarn,mongodb,redux,html,css,linux,gradle,firebase)](https://skillicons.dev)
 
 ### Socials  
 
